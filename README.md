@@ -26,5 +26,6 @@
   })();
 </script>
 ```
-##Пример тега
+## Пример тега
+
 ![Screenshot](screenshot.png)
