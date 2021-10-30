@@ -26,3 +26,5 @@
   })();
 </script>
 ```
+##Пример тега
+![Screenshot](screenshot.png)
